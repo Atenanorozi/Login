@@ -12,7 +12,7 @@ This program allows users to **register new accounts** and **log in** using thei
 ## 🧩 How It Work 
 
 1. When you start the program, you will see a menu with three options:
-- **1. Register** _ Creat a new account
+- **1. Signup** _ Creat a new account
 - **2. Login** _ Log in with your credentials
 - **3. Exit** _ Quit the program
 
