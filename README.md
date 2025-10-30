@@ -6,7 +6,7 @@ This program allows users to **register new accounts** and **log in** using thei
 
 ## 🚀 Features 
 
-- Register new users
+- Signup new users
 - Log in with existing credentials
 
 ## 🧩 How It Work 
