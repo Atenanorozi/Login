@@ -1,4 +1,4 @@
-# Simple Python Login System
+# Login
 
 A basic Command_line **Login and Registration System** built with Python.
 This program allows users to **register new accounts** and **log in** using their username and password.
